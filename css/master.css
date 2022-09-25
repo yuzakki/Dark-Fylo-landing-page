@@ -447,7 +447,7 @@ body {
     }
 }
 .footer .container img.logo {
-    padding-bottom: 30px;
+    margin-bottom: 30px;
     cursor: pointer;
 }
 .footer .container .cols {
